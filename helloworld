@@ -1,5 +1,6 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
+class Simple{   
+    public static void main(String args[]) throws InterruptedException{   
+     Thread.sleep(10000); 
+     System.out.println("Hello Java it is executed in may20th 2020");   
+    }   
+} 
